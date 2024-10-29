@@ -6,7 +6,6 @@
 * The user-friendly interface is built using Streamlit
 * The web search supports diverse searches such as text, news, PDFs, images, videos, maps, and instant responses. 
 * Overcoming knowledge-cutoff limitations, the chatbot delivers answers based on the latest internet content.
-* Jag Test
 
 ## Streamlit User Interface
 <div align="center">
